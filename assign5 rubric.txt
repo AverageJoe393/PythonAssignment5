@@ -1,0 +1,21 @@
+Hurricane Assignment Scoring Summary
+
+
+Name ________________________________________ Score ________________
+
+General Requirements:
+_________ (10 pts) Documentation (descriptive comments, function headers, etc...)Implementation:
+_________ (12 pts) open_file function (-1 Did not use try/except, -2 Did not while loop)
+_________ (12 pts) update_dictionary function
+_________ (12 pts) create_dictionary function
+_________ (12 pts) display_table function
+
+_________ (12 points) main()
+_________ (15 pts) Pass Test1
+_________ (15 pts) Pass Test2
+
+
+Extra Credit
+
+_________ (2 pts) prepare_plot function and display chart
+
